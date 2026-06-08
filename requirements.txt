@@ -1,0 +1,8 @@
+python-telegram-bot==20.6
+tradingview-ta
+requests
+beautifulsoup4
+lxml
+pandas
+yfinance
+python-dateutil
